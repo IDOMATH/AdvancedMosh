@@ -1,0 +1,13 @@
+C:\Users\btsch\Documents\Coding\AdvancedMosh\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.exe
+C:\Users\btsch\Documents\Coding\AdvancedMosh\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.deps.json
+C:\Users\btsch\Documents\Coding\AdvancedMosh\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.json
+C:\Users\btsch\Documents\Coding\AdvancedMosh\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.dev.json
+C:\Users\btsch\Documents\Coding\AdvancedMosh\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.dll
+C:\Users\btsch\Documents\Coding\AdvancedMosh\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.pdb
+C:\Users\btsch\Documents\Coding\AdvancedMosh\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.csprojAssemblyReference.cache
+C:\Users\btsch\Documents\Coding\AdvancedMosh\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfoInputs.cache
+C:\Users\btsch\Documents\Coding\AdvancedMosh\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfo.cs
+C:\Users\btsch\Documents\Coding\AdvancedMosh\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.csproj.CoreCompileInputs.cache
+C:\Users\btsch\Documents\Coding\AdvancedMosh\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.dll
+C:\Users\btsch\Documents\Coding\AdvancedMosh\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.pdb
+C:\Users\btsch\Documents\Coding\AdvancedMosh\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.genruntimeconfig.cache
